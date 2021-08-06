@@ -10,5 +10,3 @@ the cells .
 - JavaScript
 - Socket.io
 
-## Checkout the live demo at 
-- https://kesabh.github.io/DOM_Projects/Excel_clone/
